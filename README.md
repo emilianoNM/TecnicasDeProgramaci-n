@@ -1,2 +1,2 @@
 # TecnicasDeProgramaci-n
-repositorio para técnicas de  
+repositorio para técnicas de programación  
